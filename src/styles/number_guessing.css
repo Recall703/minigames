@@ -1,0 +1,20 @@
+.btn {
+    font-weight:600;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: rgb(59 130 246);
+    border-color: rgb(29 78 216);
+    color: white;
+}
+
+.btn-blue:hover {
+    background-color: rgb(29 78 216);
+}
+
+.gameboard{
+    max-width: 390px;
+}
